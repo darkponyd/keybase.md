@@ -1,8 +1,9 @@
 I hereby claim:
 
-I am darkponyd on github. 
-I am dwmine31 (https://keybase.io/dwmine31) on keybase. 
-I have a public key ASD7eSG8QYaxhTzh2z5VCnG3TB8n5De51-4A3J-Ola_H2go
+ *I am darkponyd on github. 
+ *I am dwmine31 (https://keybase.io/dwmine31) on keybase. 
+ *I have a public key ASD7eSG8QYaxhTzh2z5VCnG3TB8n5De51-4A3J-Ola_H2go
+
 To claim this, I am signing this object:
 
 ```json
@@ -38,10 +39,15 @@ To claim this, I am signing this object:
      "seqno": 8, 
      "tag": "signature"
 }
-
+```
 
 with the key [ASD7eSG8QYaxhTzh2z5VCnG3TB8n5De51-4A3J-Ola_H2go](https://keybase.io/dwmine31), yielding the signature:
-```hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+3khvEGGsYU84ds+VQpxt0wfJ+Q3udfuANyfjpWvx9oKp3BheWxvYWTESpcCCMQgs0eRzvyj/Dn2FP/2ks2Pmu8tiqulh+qZAEbDQwc0zGPEIDc0wN598f4h09S+fGFAOYvaLLyYaruQbL/gouZqvZaLAgHCo3NpZ8RAXrgXJ5hZlDjilCiWomZjbVASlT0IszBFDrbhGa0wticKhCohwE3GBXGc5DvqeebfhOH+qlIxTeHt8PixMTqVDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGDskgKY9Wshv9eDZfsnef9duzTMEg/XeQaGN+8MLyIfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+3khvEGGsYU84ds+VQpxt0wfJ+Q3udfuANyfjpWvx9oKp3BheWxvYWTESpcCCMQgs0eRzvyj/Dn2FP/2ks2Pmu8tiqulh+qZAEbDQwc0zGPEIDc0wN598f4h09S+fGFAOYvaLLyYaruQbL/gouZqvZaLAgHCo3NpZ8RAXrgXJ5hZlDjilCiWomZjbVASlT0IszBFDrbhGa0wticKhCohwE3GBXGc5DvqeebfhOH+qlIxTeHt8PixMTqVDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGDskgKY9Wshv9eDZfsnef9duzTMEg/XeQaGN+8MLyIfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
 And finally, I am proving ownership of the github account by posting this as a gist.
 
 My publicly-auditable identity: https://keybase.io/dwmine31
