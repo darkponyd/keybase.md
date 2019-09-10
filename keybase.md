@@ -1,8 +1,8 @@
 I hereby claim:
 
- *I am darkponyd on github. 
- *I am dwmine31 (https://keybase.io/dwmine31) on keybase. 
- *I have a public key ASD7eSG8QYaxhTzh2z5VCnG3TB8n5De51-4A3J-Ola_H2go
+ -I am darkponyd on github. 
+ -I am dwmine31 (https://keybase.io/dwmine31) on keybase. 
+ -I have a public key ASD7eSG8QYaxhTzh2z5VCnG3TB8n5De51-4A3J-Ola_H2go
 
 To claim this, I am signing this object:
 
