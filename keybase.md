@@ -20,8 +20,7 @@ To claim this, I am signing this object:
      },    
      "merkle_root": {      
        "ctime": 1568120106,       
-       "hash":
-       "0a681f57f56b017af7a66f805ff3005e47b6e1a28290d0bf1cbf146c9c269e692c93a34965e098f2afca62ce2ee98bc60e4c2648432e8adb3fd9 f8044022cb83",      
+       "hash":  "0a681f57f56b017af7a66f805ff3005e47b6e1a28290d0bf1cbf146c9c269e692c93a34965e098f2afca62ce2ee98bc60e4c2648432e8adb3fd9 f8044022cb83",      
        "hash_meta": "b5cd6f05d1922e39040043b52d0aaf189dd9163f5918541399410ab3134c0a2d",     
        "seqno": 6406571    
      },
