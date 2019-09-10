@@ -58,5 +58,5 @@ https://keybase.io/dwmine31
 
 Consider the keybase command line program.
 
-#look me up
-keybase id dwmine31
+ # look me up
+ keybase id dwmine31
