@@ -50,11 +50,11 @@ hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+3khvEGGsYU84ds+VQpxt0wfJ+Q3udfu
 
 And finally, I am proving ownership of the github account by posting this as a gist.
 
-# My publicly-auditable identity:
+## My publicly-auditable identity: ##
 
 https://keybase.io/dwmine31
 
-# From the command line:
+## From the command line: ##
 
 Consider the keybase command line program.
 
