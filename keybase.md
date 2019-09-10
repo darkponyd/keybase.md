@@ -57,6 +57,7 @@ https://keybase.io/dwmine31
 ### From the command line: ###
 
 Consider the keybase command line program.
-
+```bash
  # look me up
  keybase id dwmine31
+```
