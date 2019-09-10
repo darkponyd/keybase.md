@@ -1,3 +1,5 @@
+### Keybase proof
+
 I hereby claim:
 
   * I am darkponyd on github. 
@@ -11,13 +13,15 @@ To claim this, I am signing this object:
   "body": {    
     "key": {      
       "eldest_kid": "0120fb7921bc4186b1853ce1db3e550a71b74c1f27e437b9d7ee00dc9f8e95afc7da0a",      
-      "host": "keybase.io",      "kid": "0120fb7921bc4186b1853ce1db3e550a71b74c1f27e437b9d7ee00dc9f8e95afc7da0a",      
+      "host": "keybase.io",      
+      "kid": "0120fb7921bc4186b1853ce1db3e550a71b74c1f27e437b9d7ee00dc9f8e95afc7da0a",      
       "uid": "c5b659708ca1dade26d0a2687c800219", 
       "username": "dwmine31"    
      },    
      "merkle_root": {      
        "ctime": 1568120106,       
-       "hash":"0a681f57f56b017af7a66f805ff3005e47b6e1a28290d0bf1cbf146c9c269e692c93a34965e098f2afca62ce2ee98bc60e4c2648432e8adb3fd9 f8044022cb83",      
+     "hash":
+     "0a681f57f56b017af7a66f805ff3005e47b6e1a28290d0bf1cbf146c9c269e692c93a34965e098f2afca62ce2ee98bc60e4c2648432e8adb3fd9 f8044022cb83",      
        "hash_meta": "b5cd6f05d1922e39040043b52d0aaf189dd9163f5918541399410ab3134c0a2d",     
        "seqno": 6406571    
      },
@@ -28,16 +32,16 @@ To claim this, I am signing this object:
      },
      "type": "web_service_binding", 
      "version": 2 
-     }, 
-     "client": {    
-       "name": "keybase.io go client",  
-       "version": "4.4.0"  
-     }, 
-     "ctime": 1568120117,  
-     "expire_in": 504576000,  
-     "prev": "b34791cefca3fc39f614fff692cd8f9aef2d8aaba587ea990046c3430734cc63", 
-     "seqno": 8, 
-     "tag": "signature"
+   }, 
+   "client": {    
+      "name": "keybase.io go client",  
+      "version": "4.4.0"  
+   }, 
+   "ctime": 1568120117,  
+   "expire_in": 504576000,  
+   "prev": "b34791cefca3fc39f614fff692cd8f9aef2d8aaba587ea990046c3430734cc63", 
+   "seqno": 8, 
+   "tag": "signature"
 }
 ```
 
